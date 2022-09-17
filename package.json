@@ -1,0 +1,15 @@
+{
+  "name": "discord-slash-command-generator",
+  "version": "1.0.0",
+  "description": "Discord Slash Command Creator",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "LA",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.6.7",
+    "prompts": "^2.4.2"
+  }
+}
